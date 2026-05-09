@@ -1,0 +1,8 @@
+Ali Ahmed
+AI Engineer
+
+Skills:
+Python, TensorFlow, Deep Learning, NLP, Scikit-learn
+
+Experience:
+3 years experience in AI and Machine Learning
